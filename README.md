@@ -8,6 +8,9 @@
 - [Photo Editor](https://fengyuanchen.github.io/photo-editor) - An advanced example of Cropper.js.
 - [jquery-cropper](https://github.com/fengyuanchen/jquery-cropper) - A jQuery plugin wrapper for Cropper.js.
 
+## Update logs for KNEESUP Med
+
+- Modify css style for KNEESUP Med layout(Sharp of view box is circle, No dashed lines).
 ## Table of contents
 
 - [Features](#features)
