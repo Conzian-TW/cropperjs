@@ -50,13 +50,14 @@
     display: block;
     height: 100%;
     outline-color: rgba(51, 153, 255, 0.75);
-    outline: 1px solid #39f;
+    outline: 1px dashed #FFF;
     overflow: hidden;
     width: 100%;
+    border-radius: 50%;
   }
 
   &-dashed {
-    border: 0 dashed #eee;
+    // border: 0 dashed #eee;
     display: block;
     opacity: .5;
     position: absolute;
